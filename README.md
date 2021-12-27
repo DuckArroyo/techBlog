@@ -1,17 +1,16 @@
-# Tech Blog ![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
+# Tech Blog
+
+![GitHublicense](https://img.shields.io/npm/l/express?style=for-the-badge)
 
 ## UO Coding bootcamp Challenge
-14. Model-View-Controller (MVC) Challenge: Tech Blog
 
-Bootcamp Module 10
+14. Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Links
 
-Github Pages [Link]()
+[Github Repository](https://github.com/DuckArroyo/techBlog)
 
-Github Repository [Link]()
-
-Heroku [Link]()
+[Heroku](https://sleepy-caverns-39452.herokuapp.com/)
 
 ## Description
 
@@ -41,17 +40,19 @@ connect session sequelizer
 
 DeveloperDuckArroyo
 
-[Portfolio](https://duckarroyo.github.io/challenge2/)
+[Email](mailto:DeveloperDuckArroyo@gmail.com)
+
+[Portfolio](https://github.com/DuckArroyo/portfolio)
+
+[React Portfolio](http://DuckArroyo.github.io/reactPortfolio)
 
 [GitHub](https://github.com/DuckArroyo)
 
 [Twitter @DevDuckArroyo](https://twitter.com/DevDuckArroyo)
 
-[LinkeIn](https://www.linkedin.com/in/duckarroyo/)
+[LinkedIn](https://www.linkedin.com/in/duckarroyo)
 
 [CodePen](https://codepen.io/DeveloperDuckArroyo)
-
-[Email](mailto:DeveloperDuckArroyo@gmail.com)
 
 # Screnshots
 
